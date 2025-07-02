@@ -1,6 +1,3 @@
-Here's a polished README file for your project. I'll add some flair with emojis and formatting for maximum impact:
-
----
 
 # 📝 ToDoList App
 
@@ -75,6 +72,3 @@ Contributions are welcome! Create a pull request and I'll review it soon. ❤️
 This project is licensed under the **MIT License**. 🛡️  
 Feel free to use, modify, and share as long as you include attribution.
 
----
-
-Let me know if you want to customize any sections further! 🚀
